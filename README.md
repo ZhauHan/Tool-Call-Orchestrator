@@ -1,5 +1,4 @@
-# MCP Case Study: Multi-Tool Chat Harness
-
+# Tool Call Orchestrator
 ## Project Introduction
 
 The **Multi-Tool Chat Harness** is an AI-powered orchestration system designed to handle natural-language requests across a large ecosystem of connected services. The project provides a FastAPI backend with **191 mock tools spanning seven services**: Gmail, Google Calendar, Google Drive, Slack, Linear, GitHub, and Perplexity.
